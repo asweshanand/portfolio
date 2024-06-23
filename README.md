@@ -1,4 +1,4 @@
-# Data Scientist
+# Aswesh Thrissur Anand
 
 ### Education
 - Master of Data Science, University of Melbourne, VIC, Australia
