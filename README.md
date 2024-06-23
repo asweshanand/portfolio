@@ -2,7 +2,7 @@
 
 ### Education
 - Master of Data Science, University of Melbourne, VIC, Australia
-- Bachelor of Technology, Amrita University, TN, India
+- Bachelor of Technology in Computer Science and Engineering, Amrita University, TN, India
 
 ### Work Experience
 Data Scientist @ MuSigma
